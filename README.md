@@ -1,4 +1,4 @@
-# Estás a un paso de leer mi perfil  
+# ¡Bienvenido a mi perfil! 
 
 :wave: Soy José Antonio   
 :book: Actualmente estudio el Ciclo Superior de Desarrollo de aplicaciones multiplataforma  
