@@ -21,8 +21,7 @@ por mi, en la que tengo instalada en mi teléfono para uso propio.
 ### Conocimientos en lenguajes de programación
 ![](https://img.shields.io/badge/Java-orange?style=flat) ![](https://img.shields.io/badge/Python-blue?style=flat) ![](https://img.shields.io/badge/kotlin-purple?style=flat)  
 ### Uso de IDs
-![](https://img.shields.io/badge/Eclipse-purple?style=flat)
-
+![](https://img.shields.io/badge/Eclipse-purple?style=flat) ![](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat) ![](https://img.shields.io/badge/Apache%20NetBeans-red?style=flat) ![](https://img.shields.io/badge/IntelliJ%20IDEA-black?style=flat) ![](https://img.shields.io/badge/Android%20Studio-blue?style=flat)
 
 
 
