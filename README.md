@@ -15,6 +15,8 @@ He realizado algunos proyectos de marchine learning supervised, en los que trata
 etiquetados para entrenar algoritmos, para modelos de predicción y de clasificación de los datos. 
 Además he realizado  algunas prácticas con redes neuronales convolucionales. Proyectos como por ejemplo predicción del cancer de mama...  
 
+He realizado los siguientes cur
+
 Tengo conocimientos de uso de Android Studio y programación en kotlin. Tengo una aplicación desarrollada integramente  
 por mi, en la que tengo instalada en mi teléfono para uso propio.
 
