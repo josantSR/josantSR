@@ -6,5 +6,5 @@
 :heart: Mi pasión, la Intigencia artificial  
 
 ### Contacto
-![](https://img.shields.io/badge/Email-red?style=flat) ![](https://img.shields.io/badge/Facebook-blue?style=flat) ![](https://img.shields.io/badge/Instagram-pink?style=flat)
+![](https://img.shields.io/badge/Email-red?style=flat) ![](https://img.shields.io/badge/Facebook-blue?style=flat) ![](https://img.shields.io/badge/Instagram-purple?style=flat) ![](https://img.shields.io/badge/Linkedin-blue?style=flat)
 
