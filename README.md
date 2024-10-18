@@ -1,1 +1,6 @@
-# Hola! Mi nombre es Jose Antonio y os presento mi perfil
+# Estás a un paso de leer mi perfil  
+
+:wave: Soy José Antonio   
+:book: Actualmente estudio el Ciclo Superior de Desarrollo de aplicaciones multiplataforma  
+:iphone: Me gusta el desarrollo de aplicaciones moviles  
+:heart: Mi pasión, la Intigencia artificial
