@@ -34,14 +34,15 @@ He realizado los siguientes cursos en la plataforma de Udemy:
 Tengo conocimientos de uso de Android Studio y programación en kotlin. Tengo una aplicación desarrollada integramente  
 por mi, en la que tengo instalada en mi teléfono para uso propio.  
 
-![img](/Users/JASR/Desktop/DESARROLLO DE APLICACIONES MULTIPLATAFORMA/LENGUAJE DE MARCAS Y SISTEMAS DE GESTION DE INFORMACION/1.jpg)
+![](C:/Users/JASR/Desktop/DESARROLLO DE APLICACIONES MULTIPLATAFORMA/LENGUAJE DE MARCAS Y SISTEMAS DE GESTION DE INFORMACION/1.jpg)
 
 
 ---
 ### Conocimientos en lenguajes de programación
 ![](https://img.shields.io/badge/Java-orange?style=flat)
 ![](https://img.shields.io/badge/Python-blue?style=flat)
-![](https://img.shields.io/badge/kotlin-purple?style=flat)  
+![](https://img.shields.io/badge/kotlin-purple?style=flat) 
+![](https://img.shields.io/badge/R-black)
 
 ---
 ### Uso de IDs
