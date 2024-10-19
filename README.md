@@ -6,7 +6,10 @@
 :heart: Mi pasión, la Intigencia Artificial  
 
 ### Contacto
-![](https://img.shields.io/badge/Email-red?style=flat) ![](https://img.shields.io/badge/Facebook-blue?style=flat) ![](https://img.shields.io/badge/Instagram-purple?style=flat) ![](https://img.shields.io/badge/Linkedin-blue?style=flat)  
+![](https://img.shields.io/badge/Email-red?style=flat)
+![](https://img.shields.io/badge/Facebook-blue?style=flat)
+![](https://img.shields.io/badge/Instagram-purple?style=flat)
+![](https://img.shields.io/badge/Linkedin-blue?style=flat)  
 
 ### Informacion  
 Actualmente trabajo fuera del mundo tecnológico, y algún día quisiera dedicarme a mi pasion, la Inteligencia artificial.  
@@ -15,15 +18,33 @@ He realizado algunos proyectos de marchine learning supervised, en los que trata
 etiquetados para entrenar algoritmos, para modelos de predicción y de clasificación de los datos. 
 Además he realizado  algunas prácticas con redes neuronales convolucionales. Proyectos como por ejemplo predicción del cancer de mama...  
 
-He realizado los siguientes cur
+He realizado los siguientes cursos en la plataforma de Udemy:
+- Introducción a Java desde cero.
+- Aprende Java de cero a avanzado con ejercicios guiados paso a paso
+- Introducción a la Programación con Python
+- Curso maestro de Python: De cero a programador todo terreno
+- Machine Learning 2022, Redes Neuronales con Python desde cero
+- Master de especialista en Ciencia de Datos con Python
+- Programador con el Lenguaje Estadistico R. De cero a experto
+- Aprenda a desarrollar proyectos de Machine Learning y Deep Learning con el lenguaje R. Data Sciencie de básico a experto
+
 
 Tengo conocimientos de uso de Android Studio y programación en kotlin. Tengo una aplicación desarrollada integramente  
-por mi, en la que tengo instalada en mi teléfono para uso propio.
+por mi, en la que tengo instalada en mi teléfono para uso propio.  
+
+
+
 
 ### Conocimientos en lenguajes de programación
-![](https://img.shields.io/badge/Java-orange?style=flat) ![](https://img.shields.io/badge/Python-blue?style=flat) ![](https://img.shields.io/badge/kotlin-purple?style=flat)  
+![](https://img.shields.io/badge/Java-orange?style=flat)
+![](https://img.shields.io/badge/Python-blue?style=flat)
+![](https://img.shields.io/badge/kotlin-purple?style=flat)  
 ### Uso de IDs
-![](https://img.shields.io/badge/Eclipse-purple?style=flat) ![](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat) ![](https://img.shields.io/badge/Apache%20NetBeans-red?style=flat) ![](https://img.shields.io/badge/IntelliJ%20IDEA-black?style=flat) ![](https://img.shields.io/badge/Android%20Studio-blue?style=flat)
+![](https://img.shields.io/badge/Eclipse-purple?style=flat)
+![](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat)
+![](https://img.shields.io/badge/Apache%20NetBeans-red?style=flat)
+![](https://img.shields.io/badge/IntelliJ%20IDEA-black?style=flat)
+![](https://img.shields.io/badge/Android%20Studio-blue?style=flat)
 
 
 
