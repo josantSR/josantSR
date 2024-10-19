@@ -1,7 +1,7 @@
 # ¡Bienvenido a mi perfil! 
 
 :wave: Soy José Antonio   
-:book: Actualmente estudio el Ciclo Superior de Desarrollo de aplicaciones multiplataforma  
+:book: Actualmente estudio el Ciclo Superior de Formación Profesional de Desarrollo de aplicaciones multiplataforma  
 :iphone: Me gusta el desarrollo de aplicaciones moviles  
 :heart: Mi pasión, la Intigencia Artificial  
 
@@ -18,7 +18,7 @@ Actualmente trabajo fuera del mundo tecnológico, y algún día quisiera dedicar
 
 He realizado algunos proyectos de marchine learning supervised, en los que trata de trabajar con un cojunto de datos  
 etiquetados para entrenar algoritmos, para modelos de predicción y de clasificación de los datos. 
-Además he realizado  algunas prácticas con redes neuronales convolucionales. Proyectos como por ejemplo predicción del cancer de mama...  
+Además he realizado  algunas prácticas con redes neuronales convolucionales. 
 
 He realizado los siguientes cursos en la plataforma de Udemy:
 - Introducción a Java desde cero.
@@ -33,7 +33,8 @@ He realizado los siguientes cursos en la plataforma de Udemy:
 
 Tengo conocimientos de uso de Android Studio y programación en kotlin. Tengo una aplicación desarrollada integramente  
 por mi, en la que tengo instalada en mi teléfono para uso propio.  
-[img](/Users/JASR/Desktop/DESARROLLO DE APLICACIONES MULTIPLATAFORMA/LENGUAJE DE MARCAS Y SISTEMAS DE GESTION DE INFORMACION/1.jpg)
+
+![img](/Users/JASR/Desktop/DESARROLLO DE APLICACIONES MULTIPLATAFORMA/LENGUAJE DE MARCAS Y SISTEMAS DE GESTION DE INFORMACION/1.jpg)
 
 
 ---
