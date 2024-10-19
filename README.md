@@ -14,7 +14,7 @@
 
 ---
 ### Informacion  
-~~~
+
 Actualmente trabajo fuera del mundo tecnológico, y algún día quisiera dedicarme a mi pasion, la Inteligencia artificial.  
 
 Por lo que el primer paso que he decidido dar, es matricularme en Formación Profesional de Grado Superior : Técnico Superior 
@@ -49,7 +49,7 @@ He realizado los siguientes cursos en la plataforma de Udemy:
 
 Tengo conocimientos de uso de Android Studio y programación en kotlin. Tengo una aplicación desarrollada integramente  
 por mi, en la que tengo instalada en mi teléfono para uso propio.  
-~~~
+
 ![](https://github.com/josantSR/josantSR/blob/main/1a.jpg)
 ![](https://github.com/josantSR/josantSR/blob/main/1b.jpg)
 ![](https://github.com/josantSR/josantSR/blob/main/1c.jpg)
