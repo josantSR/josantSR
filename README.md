@@ -1,7 +1,7 @@
 # ¡Bienvenido a mi perfil! 
 
 :wave: Soy José Antonio   
-:book: Actualmente estudio el Ciclo Superior de Formación Profesional de Desarrollo de aplicaciones multiplataforma  
+:book: Actualmente estudio el Ciclo Superior de Formación Profesional de Desarrollo de Aplicaciones Multiplataforma  
 :iphone: Me gusta el desarrollo de aplicaciones moviles  
 :heart: Mi pasión, la Intigencia Artificial  
 
