@@ -16,6 +16,10 @@
 ### Informacion  
 Actualmente trabajo fuera del mundo tecnológico, y algún día quisiera dedicarme a mi pasion, la Inteligencia artificial.  
 
+Por lo que el primer paso que he decidido dar es matricularme en Formación Profesional de Grado Superior : técnico superior 
+en Desarrollo de aplicaciones multiplataforma, para así después matricularme en el curso de especialización en inteligencia 
+artificial y big data.  
+
 He realizado algunos proyectos de marchine learning supervised, en los que trata de trabajar con un cojunto de datos  
 etiquetados para entrenar algoritmos, para modelos de predicción y de clasificación de los datos. 
 Además he realizado  algunas prácticas con redes neuronales convolucionales. 
