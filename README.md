@@ -20,6 +20,15 @@ Por lo que el primer paso que he decidido dar es matricularme en Formación Prof
 en Desarrollo de aplicaciones multiplataforma, para así después matricularme en el curso de especialización en inteligencia 
 artificial y big data.  
 
+Las asignaturas en las que estoy matriculado son:  
+- Bases de datos
+- Digitalización aplicada al sistema productivo
+- Entornos de desarrollo
+- Inglés profesional
+- Itinerario personal para la empleabilidad I
+- Programación
+- Sistemas informáticos
+
 He realizado algunos proyectos de marchine learning supervised, en los que trata de trabajar con un cojunto de datos  
 etiquetados para entrenar algoritmos, para modelos de predicción y de clasificación de los datos. 
 Además he realizado  algunas prácticas con redes neuronales convolucionales. 
