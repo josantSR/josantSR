@@ -16,11 +16,11 @@
 ### Informacion  
 Actualmente trabajo fuera del mundo tecnológico, y algún día quisiera dedicarme a mi pasion, la Inteligencia artificial.  
 
-Por lo que el primer paso que he decidido dar es matricularme en Formación Profesional de Grado Superior : Técnico Superior 
-En Desarrollo de Aplicaciones Mltiplataforma, para así después matricularme en el curso de Especialización en Inteligencia 
+Por lo que el primer paso que he decidido dar, es matricularme en Formación Profesional de Grado Superior : Técnico Superior 
+En Desarrollo de Aplicaciones Multiplataforma, para así después matricularme en el curso de Especialización en Inteligencia 
 Artificial y Big Data.  
 
-Las asignaturas en las que estoy matriculado son:  
+Las asignaturas en las que estoy matriculado son: 
 - Bases de datos
 - Digitalización aplicada al sistema productivo
 - Entornos de desarrollo
