@@ -68,5 +68,12 @@ por mi, en la que tengo instalada en mi teléfono para uso propio.
 ![](https://img.shields.io/badge/Android%20Studio-blue?style=flat)
 ![](https://img.shields.io/badge/RStudio-red)
 
+---
+### Librerias de Python
+![](https://img.shields.io/badge/Pandas-blue)
+![](https://img.shields.io/badge/Numpy-red)
+![](https://img.shields.io/badge/Matplotlib-green)
+![](https://img.shields.io/badge/Sklearn-black)
+
 
 
