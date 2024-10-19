@@ -16,14 +16,13 @@
 ### Informacion  
 ~~~
 Actualmente trabajo fuera del mundo tecnológico, y algún día quisiera dedicarme a mi pasion, la Inteligencia artificial.  
-~~~
-~~~
+
 Por lo que el primer paso que he decidido dar, es matricularme en Formación Profesional de Grado Superior : Técnico Superior 
 En Desarrollo de Aplicaciones Multiplataforma, para así después matricularme en el curso de Especialización en Inteligencia 
 Artificial y Big Data.  
-~~~
-~~~
-Las asignaturas en las que estoy matriculado son: 
+
+Las asignaturas en las que estoy matriculado son:
+
 - Bases de datos
 - Digitalización aplicada al sistema productivo
 - Entornos de desarrollo
@@ -31,14 +30,14 @@ Las asignaturas en las que estoy matriculado son:
 - Itinerario personal para la empleabilidad I
 - Programación
 - Sistemas informáticos
-~~~
-~~~
+
 He realizado algunos proyectos de marchine learning supervised, en los que trata de trabajar con un cojunto de datos  
-etiquetados para entrenar algoritmos, en modelos de predicción y de clasificación de los datos. 
+etiquetados para entrenar algoritmos, en modelos de predicción y de clasificación de los datos.
+ 
 Además he realizado  algunas prácticas con redes neuronales convolucionales. 
-~~~
-~~~
+
 He realizado los siguientes cursos en la plataforma de Udemy:
+
 - Introducción a Java desde cero.
 - Aprende Java de cero a avanzado con ejercicios guiados paso a paso
 - Introducción a la Programación con Python
@@ -47,15 +46,14 @@ He realizado los siguientes cursos en la plataforma de Udemy:
 - Master de especialista en Ciencia de Datos con Python
 - Programador con el Lenguaje Estadistico R. De cero a experto
 - Aprenda a desarrollar proyectos de Machine Learning y Deep Learning con el lenguaje R. Data Sciencie de básico a experto
-~~~
-~~~
+
 Tengo conocimientos de uso de Android Studio y programación en kotlin. Tengo una aplicación desarrollada integramente  
 por mi, en la que tengo instalada en mi teléfono para uso propio.  
-
+~~~
 ![](https://github.com/josantSR/josantSR/blob/main/1a.jpg)
 ![](https://github.com/josantSR/josantSR/blob/main/1b.jpg)
 ![](https://github.com/josantSR/josantSR/blob/main/1c.jpg)
-~~~
+
 
 ---
 ### Conocimientos en lenguajes de programación
