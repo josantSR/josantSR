@@ -17,7 +17,7 @@
 
 Actualmente trabajo fuera del mundo tecnológico, y algún día quisiera dedicarme a mi pasion, la Inteligencia artificial.  
 
-Por lo que el primer paso que he decidido dar, es matricularme en Formación Profesional de Grado Superior : Técnico Superior 
+Por lo que el primer paso que he dado, es matricularme en Formación Profesional de Grado Superior : Técnico Superior 
 En Desarrollo de Aplicaciones Multiplataforma, para así después matricularme en el curso de Especialización en Inteligencia 
 Artificial y Big Data.  
 
@@ -34,9 +34,9 @@ Las asignaturas en las que estoy matriculado son:
 He realizado algunos proyectos de marchine learning supervised, en los que trata de trabajar con un cojunto de datos  
 etiquetados para entrenar algoritmos, en modelos de predicción y de clasificación de los datos.
  
-Además he realizado  algunas prácticas con redes neuronales convolucionales. 
+Además trabajé con redes neuronales convolucionales. 
 
-He realizado los siguientes cursos en la plataforma de Udemy:
+Estoy siguiendo para mi aprendizaje los siguientes cursos en la plataforma de Udemy:
 
 - Introducción a Java desde cero.
 - Aprende Java de cero a avanzado con ejercicios guiados paso a paso
