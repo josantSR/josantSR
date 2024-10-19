@@ -36,6 +36,7 @@ por mi, en la que tengo instalada en mi teléfono para uso propio.
 
 ![](https://github.com/josantSR/josantSR/blob/main/1a.jpg)
 ![](https://github.com/josantSR/josantSR/blob/main/1b.jpg)
+![](https://github.com/josantSR/josantSR/blob/main/1c.jpg)
 
 
 ---
