@@ -34,6 +34,7 @@ He realizado los siguientes cursos en la plataforma de Udemy:
 Tengo conocimientos de uso de Android Studio y programación en kotlin. Tengo una aplicación desarrollada integramente  
 por mi, en la que tengo instalada en mi teléfono para uso propio.  
 
+![]()
 ![](https://github.com/josantSR/josantSR/blob/main/1b.jpg)
 
 
