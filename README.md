@@ -42,7 +42,7 @@ por mi, en la que tengo instalada en mi teléfono para uso propio.
 ![](https://img.shields.io/badge/Java-orange?style=flat)
 ![](https://img.shields.io/badge/Python-blue?style=flat)
 ![](https://img.shields.io/badge/kotlin-purple?style=flat) 
-![](https://img.shields.io/badge/R-black)
+![](https://img.shields.io/badge/R-red)
 
 ---
 ### Uso de IDs
@@ -51,6 +51,7 @@ por mi, en la que tengo instalada en mi teléfono para uso propio.
 ![](https://img.shields.io/badge/Apache%20NetBeans-red?style=flat)
 ![](https://img.shields.io/badge/IntelliJ%20IDEA-black?style=flat)
 ![](https://img.shields.io/badge/Android%20Studio-blue?style=flat)
+![](https://img.shields.io/badge/RStudio-red)
 
 
 
